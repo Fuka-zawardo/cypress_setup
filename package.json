@@ -10,6 +10,9 @@
   "author": "Radosław Fukazawa - Fukazawa Software",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^13.17.0"
+    "cypress": "^13.17.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "vite": "^5.0.0"
   }
 }
