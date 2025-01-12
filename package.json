@@ -4,8 +4,12 @@
   "description": "A standarized cypress setup, ready to use with any type of project. Contains a typical component and e2e test suites, accessibility testing. UI coverage annd API testing.",
   "main": "index.js",
   "scripts": {
+    "cypress:open": "npx cypress open",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Radosław Fukazawa - Fukazawa Software",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
 }
